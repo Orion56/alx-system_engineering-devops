@@ -1,1 +1,3 @@
-shel basics readme
+shell basics readme
+
+to to describe each script function
