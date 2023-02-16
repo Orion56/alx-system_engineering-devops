@@ -1,2 +1,1 @@
-devops readme file
-the global repo folder
+Repo readme file
